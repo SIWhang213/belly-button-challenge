@@ -10,7 +10,7 @@ Homework/samples.json.
 4. Display the sample metadata, i.e., an individual's demographic information.
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 6. Update all the plots when a new sample.
-* Bonus: Adapt the Gauge Chart to plot the weekly washing frequency of the individual.
+7. (Bonus) Display the Gauge Chart to plot the weekly washing frequency of the individual.
   
 ### Attached folders and files :
 * one folder including js folder including two javascript files: app.js, bonus.js
