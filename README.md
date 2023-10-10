@@ -1,5 +1,5 @@
 # belly-button-challenge
-##This is Module 14 Challenge. 
+## This is Module 14 Challenge. 
 
 ### Motivation: A small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 ### Instructions
