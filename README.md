@@ -2,7 +2,7 @@
 This is Module 14 Challenge. 
 
 ![alt text](snapshot.png)
-<img src="snapshot.png" alt="Alt Text" width="300" height="200">
+<img src="snapshot.png" alt="Alt Text" width="100" height="50">
 
 ### Goal : This assignment is broken down into the following tasks:
 * Prepare the data.
