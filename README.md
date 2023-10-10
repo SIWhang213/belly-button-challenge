@@ -13,9 +13,9 @@ Homework/samples.json.
 7. (Bonus) Display the Gauge Chart to plot the weekly washing frequency of the individual.
   
 ### Attached folders and files :
-* one folder including js folder including two javascript files: app.js, bonus.js
-* index.html file
-* snapshot.png file
+* one folder including js folder including two javascript files (app.js, bonus.js)
+* one html file (index.html) 
+* one figure file (snapshot.png)
 * one REDME file
   
 ### My result looks like:
