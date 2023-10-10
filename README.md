@@ -18,6 +18,6 @@ Homework/samples.json.
 * snapshot.png file
 * one REDME file
   
-### A snapshot of my results:
+### My result looks like:
 ![alt text](snapshot.png)
   
