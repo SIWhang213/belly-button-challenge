@@ -18,8 +18,7 @@ Homework/samples.json.
 * one figure file (snapshot.png)
 * one REDME file
   
-### My result looks like:
+### Link to my result page:
 https://siwhang213.github.io/belly-button-challenge/
 
-![alt text](snapshot.png)
   
